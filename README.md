@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @DandaraFigueira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 DandaraFigueira/DandaraFigueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,6 +15,8 @@ Repositorios para armazenar sobre Git e GitHub so curso Versionamento de Código
 
 | Aulas | Resumos|
 |--------|--------|
+Aula 1 | [Resumo]().
+Aula 2 | [Resumo]().
 
 | Gravando Ateraçoes no Reposiorio local | [Resumos] ()|
 |----------------------------------------|----------|
